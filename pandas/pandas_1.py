@@ -34,4 +34,3 @@ print(stars.describe())
 #50%     5600.000000   1.000000   12.300000             These three are percentiles, like 50% of the values are below this.
 #75%     7800.000000   1.500000   25.000000
 #max    30000.000000  18.000000  430.000000             This gives the maximum of each series
-
