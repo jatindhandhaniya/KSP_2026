@@ -1,0 +1,6 @@
+name,temperature,mass,distance,type,temp_celsius
+Sun-like,5600,1.0,8.5,K-type,5326.85
+Orange Dwarf,4200,0.7,12.3,K-type,3926.85
+Blue Giant,30000,18.0,430.0,A-type,29726.85
+White Star,7800,1.5,25.0,A-type,7526.85
+Red Dwarf,3500,0.3,4.2,K-type,3226.85
