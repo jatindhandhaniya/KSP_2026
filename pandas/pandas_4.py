@@ -37,3 +37,4 @@ print(stars[["name", "temperature", "temp_celsius"]])
 #SAVING TO CSV
 
 stars.to_csv("stars_output.csv", index=False)
+#This is how we can create a whole new csv file with our processed output
