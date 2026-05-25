@@ -1,4 +1,4 @@
-import ollama
+import ollama  # type: ignore
 import json
 
 #JSON is a way to structure data such that both the computer and human can understand.
